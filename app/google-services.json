@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46879968014",
+    "project_id": "fier-base-2",
+    "storage_bucket": "fier-base-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46879968014:android:7278a6caa48bc1ae81255f",
+        "android_client_info": {
+          "package_name": "com.example.fierbase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX97EiUhk1W1aoqNdFu5tg2YzAOW_DAi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
